@@ -1,6 +1,6 @@
 # myfirstrepo
 
-Welkom bij email send script van anouar Een een efficiënte oplossing om emails te versturen. 
+Welkom bij email send script van anouar Een efficiënte oplossing om emails te versturen. 
 
 🎉 Kenmerken
 Snel en betrouwbaar: email versturende script
